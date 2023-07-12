@@ -1,0 +1,15 @@
+pandas 
+numpy 
+scikit-learn==1.2
+xgboost
+lightgbm
+catboost
+optuna
+matplotlib
+seaborn
+tqdm
+fastapi
+uvicorn
+mlflow
+
+-e .
